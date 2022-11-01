@@ -39,8 +39,9 @@ The last button will have a picture of Pluto and a label.
 ![This is an image](https://cdn.discordapp.com/attachments/782722785075265576/1036945460134416394/FSPHONE.png)
 
 ### 3.2 Space body sorting menu
-This menu will appear after selecting a space body group. Here the user can select a space body, the want to know the information about. Each space body button will
+This menu will appear after selecting a space body group. Here the user can select a space body, the want to know the information about. Each space body button will have a picture and a label. The user can also sort the objects by mass, velocity, tempature, density.
+
 ![This is an image](https://cdn.discordapp.com/attachments/782722785075265576/1036949396547448843/Sortmenu.png)
-have a picture and a label. The user can also sort the objects by mass, velocity, tempature, density.
+
 ### 3.3 Space body information panel
 Here the user can learn about the space bodies through labels with information such as mass, velocity, density, distance from sun Etc.
