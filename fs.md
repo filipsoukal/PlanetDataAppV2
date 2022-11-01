@@ -35,7 +35,7 @@ and it's moons. The same goes for the moons button and other Space bodies button
 The main menu will be 3 large borderless buttons with pictures of the group that the buttons lead to. First button will be planets, with a same name label and a picture of earth.
 The second button will be the moon button, with a same name label and a Gayemede picture.
 The last button will have a picture of Pluto and a label.
-![This is an image]([https://media.discordapp.net/attachments/816343472776806452/1031658067210805332/Specific_planet.png](https://cdn.discordapp.com/attachments/782722785075265576/1036945460134416394/FSPHONE.png))
+![This is an image](https://cdn.discordapp.com/attachments/782722785075265576/1036945460134416394/FSPHONE.png)
 ### 3.2 Space body sorting menu
 This menu will appear after selecting a space body group. Here the user can select a space body, the want to know the information about. Each space body button will
 have a picture and a label. The user can also sort the objects by mass, velocity, tempature, density.
