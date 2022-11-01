@@ -45,3 +45,5 @@ This menu will appear after selecting a space body group. Here the user can sele
 
 ### 3.3 Space body information panel
 Here the user can learn about the space bodies through labels with information such as mass, velocity, density, distance from sun Etc.
+![This is an image](https://cdn.discordapp.com/attachments/782722785075265576/1036950780646797342/SpaceBodyInfo.png)
+
